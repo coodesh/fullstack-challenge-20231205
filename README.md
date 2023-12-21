@@ -17,7 +17,7 @@ Estamos animados para te ver brilha!
 ### Instruções iniciais obrigatórias
 
 - O projeto deverá ser desenvolvido com uma das tecnologias a seguir: **PHP Laravel | Vue.js**;
-- Criar um banco de dados grátis **MongoDB** usando Atlas: https://www.mongodb.com/cloud/atlas ou banco de dados grátis **MySQL** no Heroku: https://elements.heroku.com/addons/jawsdb ou banco de dados grátis **Postgres** no Heroku: https://elements.heroku.com/addons/heroku-postgresql; (Recomendável usar Drivers oficiais para integração com o DB)
+- Criar um banco de dados **MySQL**. (Recomendável usar Drivers oficiais para integração com o DB)
 
 ### Back-End:
 
